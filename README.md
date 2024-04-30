@@ -30,7 +30,7 @@ A sushi shop application with a minimalist page structure, this is only a demo a
 ## Run Locally
 
 
-[Download .zip file](https://github.com/mhmmdfzn14/flutter-sushi-app/archive/refs/heads/main.zip) and extract to your folder
+[Download .zip file](https://github.com/mhmmdfzn14/flutter_sushi_app/archive/refs/heads/main.zip) and extract to your folder
 
 OR
 
@@ -39,13 +39,13 @@ Clone the project
 
 ```bash
   cd your-folder
-  git clone https://github.com/mhmmdfzn14/flutter-sushi-app.git
+  git clone https://github.com/mhmmdfzn14/flutter_sushi_app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd flutter-sushi-app
+  cd flutter_sushi_app
 ```
 
 Run project
