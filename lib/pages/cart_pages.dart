@@ -19,6 +19,7 @@ class _CartPageState extends State<CartPage> {
       builder: (context, value, child) => Scaffold(
         backgroundColor: primaryColor,
         appBar: AppBar(
+          foregroundColor: Colors.white,
           elevation: 0,
           title: const Text("My Cart"),
           centerTitle: true,

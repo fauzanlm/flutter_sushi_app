@@ -23,7 +23,7 @@ class _IntroPageState extends State<IntroPage> {
           children: [
             const SizedBox(height: 25),
             Text(
-              'SUSHI HIHI',
+              'SUSHI NICE',
               style: GoogleFonts.dmSerifDisplay(
                 color: Colors.white,
                 fontSize: 28,
@@ -36,7 +36,7 @@ class _IntroPageState extends State<IntroPage> {
             ),
             const SizedBox(height: 25),
             Text(
-              'THE TASTE OF JAPANESE FOOD',
+              'BEST ONE OF JAPANESE FOOD',
               style: GoogleFonts.dmSerifDisplay(
                 color: Colors.white,
                 fontSize: 44,
