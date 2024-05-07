@@ -1,7 +1,8 @@
 
 # Sushi Shop App
 
-A sushi shop application with a minimalist page structure, this is only a demo app
+
+Explore the tranquil beauty of our sushi shop application, where every detail is carefully crafted to reflect the essence of minimalism. As the developer behind this creation, you've curated an experience that harmonizes simplicity and functionality, inviting users to immerse themselves in the world of sushi with ease and elegance.
 
 ## Screenshoots
 
@@ -14,17 +15,17 @@ A sushi shop application with a minimalist page structure, this is only a demo a
 
 ## Features
 
-- intro page
-- add to cart
-- remove cart
-- minimalist page structure
+- **Intro Page :** A captivating introduction sets the stage for your sushi journey, welcoming users with elegance and charm.
+- **Add to Cart :** Seamlessly add your favorite sushi selections to your cart with just a tap, ensuring a hassle-free ordering process.
+- **Remove Cart Items :** Enjoy full control over your order by effortlessly removing items from your cart, simplifying the checkout experience.
+- **Minimalist Page Structure :** Embrace the beauty of simplicity with our minimalist page layout, allowing users to navigate through the app with ease and clarity.
 
 
 ## Tech Stack
 
-**Framework:** Flutter
+**Framework :** Flutter
 
-**Animation Image:** [Lottiefiles](https://lottiefiles.com/)
+**Animation Image :** [Lottiefiles](https://lottiefiles.com/)
 
 
 ## Run Locally
@@ -53,4 +54,9 @@ Run project
 ```bash
   flutter run
 ```
+
+
+## Authors
+
+- [@fauzanlm](https://www.github.com/fauzanlm)
 
